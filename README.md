@@ -26,7 +26,10 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ahmed-mohamed-237a77188/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 <a href="https://www.facebook.com/goldenyouthful/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+
+<a href="https://wa.me/+201095690405" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Mohamed-0077B5?style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
