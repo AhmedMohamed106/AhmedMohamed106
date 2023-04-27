@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="230" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Ahmed Mohamed's profile!
@@ -14,8 +14,10 @@
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 Bachlor's degree in Computer Engineering, Faculty of Engineering - Fayoum university             
 - 👨‍💻 As a Fresh Graduate Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Embedded Software Engineering,  Technologies Like C programming , Microcontrollers , Software Design All for Embedded Technologies or anything related to Emedded Software development.
-- 💬 I'm Also interested in Data Science and Machine Learning Engineering, so I'm Trying to Compine the experience of Embedded software and Data Science to develop useful and fruitful projects in both fields.  
+- 💬 Ask me about my experience with Embedded Software Engineering,  Technologies Like C programming, Microcontrollers,
+  Software Design All for Embedded Technologies or anything related to Emedded Software development.
+- 💬 I'm Also interested in Data Science and Machine Learning Engineering, so I'm Trying to Compine the experience
+  of Embedded software and Data Science to develop useful and fruitful projects in both fields.  
 
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://ahmed-portfolio2022.netlify.app/ to see some of the projects I've worked on.
