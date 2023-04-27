@@ -50,20 +50,21 @@
 
 <br>
 
-<div align="center">
-<a href="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
-    <img   src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
-</a> 
-</div>
 
-<br>
-<br>
-<br>
+
+
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed106&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
   
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedMohamed106&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+  
+<br>
+<br>
 
-
+<div align="center">
+<a href="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
+    <img   src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
+</a> 
+</div>
