@@ -50,9 +50,11 @@
 
 <br>
 
+<div align="center">
 <a href="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
-    <img align="right"   src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
-</a>
+    <img   src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
+</a> 
+</div>
 
 <br>
 <br>
