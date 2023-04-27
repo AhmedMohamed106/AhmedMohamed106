@@ -51,7 +51,7 @@
 <br>
 
 <a href="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
-    <img align="center" src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
+    <img align="right"   src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
 </a>
 
 <br>
