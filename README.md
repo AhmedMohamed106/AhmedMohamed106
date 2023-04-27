@@ -47,7 +47,7 @@
 
 
 
-<p align="center">
+<p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed106&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
   
 
