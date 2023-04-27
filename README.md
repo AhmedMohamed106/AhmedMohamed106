@@ -49,9 +49,14 @@
 
 
 <br>
+<div align="center">
+<a href="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
+    <img   src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
+</a> 
+</div>
 
-
-
+<br>
+<br>
 
 
 <p align="left">
@@ -63,8 +68,3 @@
 <br>
 <br>
 
-<div align="center">
-<a href="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
-    <img   src="https://komarev.com/ghpvc/?username=AhmedMohamed106&style=for-the-badge">
-</a> 
-</div>
