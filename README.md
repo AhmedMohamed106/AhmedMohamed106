@@ -20,7 +20,7 @@
   of Embedded software and Data Science to develop useful and fruitful projects in both fields.  
 
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://ahmed-portfolio2022.netlify.app/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://ahmed-mohamed2024.netlify.app/ to see some of the projects I've worked on.
 
 
 ### Connect with Me :
