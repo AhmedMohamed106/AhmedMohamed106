@@ -10,7 +10,19 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<div>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<div>
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 Bachlor's degree in Computer Engineering, Faculty of Engineering - Fayoum university             
 - 👨‍💻 As a Fresh Graduate Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
@@ -21,7 +33,7 @@
 
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://ahmed-mohamed2024.netlify.app/ to see some of the projects I've worked on.
-
+</div>
 
 ### Connect with Me :
 
