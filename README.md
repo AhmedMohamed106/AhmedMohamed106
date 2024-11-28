@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full-Stack%20.NET%20Developer;Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Full-Stack%20.NET%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 <div>
@@ -26,10 +26,19 @@
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 Bachlor's degree in Computer Engineering, Faculty of Engineering - Fayoum university             
 - 👨‍💻 As a Fresh Graduate Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Embedded Software Engineering,  Technologies Like C programming, Microcontrollers,
-  Software Design All for Embedded Technologies or anything related to Emedded Software development.
-- 💬 I'm Also interested in Data Science and Machine Learning Engineering, so I'm Trying to Compine the experience
-  of Embedded software and Data Science to develop useful and fruitful projects in both fields.  
+💬 I specialize in .NET technologies and full-stack development, with expertise in ASP.NET Core for backend development and Angular for creating dynamic and responsive front-end applications.
+- I excel in software design and building scalable, maintainable architectures, including Clean Architecture and CQRS.
+
+- 💻 I am deeply passionate about Data Science, Machine Learning Engineering, and combining these fields with my development expertise to create innovative, intelligent, and data-driven applications.
+
+- 🚀 I am also highly interested in DevOps practices and distributed systems, focusing on delivering robust, scalable, and efficient software solutions through automation, cloud technologies, and microservices. My goal is to merge these diverse skill sets to build impactful and cutting-edge solutions that address real-world challenges.
+
+
+
+
+
+
+ 
 
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://ahmed-mohamed2024.netlify.app/ to see some of the projects I've worked on.
