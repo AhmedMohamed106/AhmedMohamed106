@@ -24,14 +24,19 @@
 <hr>
 <div>
 - 🏢 I'm a Software Engineer 
-- 👨‍💻 Bachlor's degree in Computer Engineering, Faculty of Engineering - Fayoum university             
-- 👨‍💻 As a Fresh Graduate Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-💬 I specialize in .NET technologies and full-stack development, with expertise in ASP.NET Core for backend development and Angular for creating dynamic and responsive front-end applications.
+  
+- 👨‍💻 Bachlor's degree in Computer Engineering, Faculty of Engineering - Fayoum university  
+  
+- 👨‍💻 As a Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+  
+- 💬 I specialize in .NET technologies and full-stack development, with expertise in ASP.NET Core for backend development and Angular for creating dynamic and responsive front-end applications.
+  
 - I excel in software design and building scalable, maintainable architectures, including Clean Architecture and CQRS.
 
 - 💻 I am deeply passionate about Data Science, Machine Learning Engineering, and combining these fields with my development expertise to create innovative, intelligent, and data-driven applications.
 
-- 🚀 I am also highly interested in DevOps practices and distributed systems, focusing on delivering robust, scalable, and efficient software solutions through automation, cloud technologies, and microservices. My goal is to merge these diverse skill sets to build impactful and cutting-edge solutions that address real-world challenges.
+- 🚀 I am also highly interested in DevOps practices and distributed systems, focusing on delivering robust, scalable, and efficient software solutions through automation, cloud technologies, and microservices. My goal is 
+   to merge these diverse skill sets to build impactful and cutting-edge solutions that address real-world challenges.
 
 
 
